@@ -1,0 +1,1 @@
+The first assignment at Cybernetics and Robotics course focusing on algorithms would help us better understand reinforcement learning problematics. Teachers gave us known mazes, and we had to find the fastest way to get from point A to point B using different algorithms. The algorithm was evaluated by a script and the coding style by a teacher.
